@@ -11,7 +11,7 @@ function App() {
 
     function handleAddTodo(newTodo) {
         const newTodoList = [...todos, newTodo];
-        setTodos(newTodo);
+        setTodos(newTodoList);
     }
 
     return (

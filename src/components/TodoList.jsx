@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import TodoCard from "./TodoCard";
 
 export default function TodoList(props) {
